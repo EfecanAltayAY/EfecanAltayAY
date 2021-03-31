@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @EfecanAltayAY from Ayasofyazılım Comp.
+- 👀 I’m interested in DevOps and Software
+- 🌱 I’m currently learning K8s
